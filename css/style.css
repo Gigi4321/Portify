@@ -107,7 +107,7 @@ header {
      a::after{
     content: "";
     width:0;
-    height: 3px;
+    height: 2px;
     background-color: var(--main-color);
     position:absolute;
     bottom:-6px;
